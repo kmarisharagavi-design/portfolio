@@ -7,7 +7,7 @@ This repository showcases my projects, skills, and experience as a **Full Stack 
 
 ## 🔗 Portfolio Link
 
-👉 https://github.com/kmarisharagavi-design/portfolio
+👉 https://kmarisharagavi-design/portfolio
 
 ---
 
